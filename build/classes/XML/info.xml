@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Tipos de atracciones/
+   Visitar página web: http://www.mundoaventura.com.co/mapa-atracciones/#teatro-5d -->
+<consorcio>
+    <sitio>
+        <!-- 1)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones >
+		<atraccion>
+			<nombre>X-Treme</nombre>
+			<tiempo>8</tiempo>
+			<costo>10</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>Asado</nombre>
+			<tiempo>7</tiempo>
+			<costo>18</costo>
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoUno</nombre>
+                <tiempo>3</tiempo>
+                <costo>2</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+     <sitio>
+        <!-- 2)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones >
+            <atraccion>
+            </atraccion>
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>PolloAsado</nombre>
+			<tiempo>9</tiempo>
+			<costo>17</costo>
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoDos</nombre>
+                <tiempo>5</tiempo>
+                <costo>3</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+     <sitio>
+        <!-- 3)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones >
+		<atraccion>
+			<nombre>Montaña RusaH</nombre>
+			<tiempo>15</tiempo>
+			<costo>30</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>Restaurante Chino</nombre>
+			<tiempo>13</tiempo>
+			<costo>20</costo>
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoTres</nombre>
+                <tiempo>2</tiempo>
+                <costo>1</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+     <sitio>
+        <!-- 4)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones >
+		<atraccion>
+			<nombre>Ikaro</nombre>
+			<tiempo>8</tiempo>
+			<costo>26</costo>
+		</atraccion>
+                <atraccion>
+			<nombre>Araña</nombre>
+			<tiempo>7</tiempo>
+			<costo>23</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+            <restaurante>
+            </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoCuatro</nombre>
+                <tiempo>5</tiempo>
+                <costo>2</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 5)-->
+        <centExps>
+            <centExp>
+                <nombre>Feria del Libro</nombre>
+                <tiempo>10</tiempo>
+                <costo>8</costo>
+            </centExp>
+        </centExps>
+	<atracciones >
+            <atraccion>
+            </atraccion>
+	</atracciones>
+
+	<restaurantes>
+                <restaurante>
+                    <nombre>Subway</nombre>
+                    <tiempo>10</tiempo>
+                    <costo>13</costo>
+                    </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+            </servicioPublico>
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 6)-->
+        <centExps>
+            <centExp>
+                <nombre>Museo de Dinusaurios</nombre>
+                <tiempo>10</tiempo>
+                <costo>21</costo>
+            </centExp>
+        </centExps>
+	<atracciones >
+		<atraccion>
+			<nombre>Vertical Swing</nombre>
+			<tiempo>7</tiempo>
+			<costo>19</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+            <restaurante>
+            </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoCinco</nombre>
+                <tiempo>3</tiempo>
+                <costo>5</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 7)-->
+        <centExps>
+            <centExp>
+                <nombre>Zoologico</nombre>
+                <tiempo>17</tiempo>
+                <costo>32</costo>
+            </centExp>
+        </centExps>
+	<atracciones >
+            <atraccion>
+            </atraccion>
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>AlemanFood</nombre>
+			<tiempo>10</tiempo>
+			<costo>21</costo>
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoSeis</nombre>
+                <tiempo>3</tiempo>
+                <costo>5</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 8)-->
+        <centExps>
+            <centExp>
+                <nombre>Feria de los Niños</nombre>
+                <tiempo>5</tiempo>
+                <costo>12</costo>
+            </centExp>
+        </centExps>
+	<atracciones >
+		<atraccion>
+			<nombre>Araña</nombre>
+			<tiempo>7</tiempo>
+			<costo>15</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>Panpaya</nombre>
+			<tiempo>8</tiempo>
+			<costo>25</costo>
+		</restaurante>
+               
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoSiete</nombre>
+                <tiempo>3</tiempo>
+                <costo>6</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 9)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones>
+		<atraccion>
+			<nombre>Sky Coaster</nombre>
+			<tiempo>10</tiempo>
+			<costo>21</costo>
+		</atraccion>
+                <atraccion>
+                    <nombre>X-Treme</nombre>
+                    <tiempo>11</tiempo>
+                    <costo>10</costo>
+                </atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+            <restaurante>
+            </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+            </servicioPublico>
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 10)-->
+        <centExps>
+            <centExp>
+                <nombre>Museo Inca</nombre>
+                <tiempo>8</tiempo>
+                <costo>15</costo>
+            </centExp>
+        </centExps>
+	<atracciones>
+            <atraccion>
+            </atraccion>
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			<nombre>Juan Mar</nombre>
+			<tiempo>11</tiempo>
+			<costo>32</costo>
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoOcho</nombre>
+                <tiempo>3</tiempo>
+                <costo>7</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 11)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones>
+		<atraccion>
+			<nombre>Ikaro</nombre>
+			<tiempo>12</tiempo>
+			<costo>22</costo>
+		</atraccion>
+              
+                <atraccion>
+                    <nombre>Martillo</nombre>
+                    <tiempo>6</tiempo>
+                    <costo>31</costo>
+                </atraccion>
+                <atraccion>
+                    <nombre>X-Treme</nombre>
+                    <tiempo>7</tiempo>
+                    <costo>19</costo>
+                </atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+            <restaurante>
+            </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+            </servicioPublico>
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 12)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones>
+		<atraccion>
+			<nombre>Araña</nombre>
+			<tiempo>11</tiempo>
+			<costo>27</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+            <restaurante>
+            </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoNueve</nombre>
+                <tiempo>6</tiempo>
+                <costo>6</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+    </sitio>
+    <sitio>
+        <!-- 13)-->
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+	<atracciones>
+		<atraccion>
+			<nombre>X-Treme</nombre>
+			<tiempo>7</tiempo>
+			<costo>32</costo>
+		</atraccion>
+                <atraccion>
+                    <nombre>Montaña RusaX</nombre>
+                    <tiempo>6</tiempo>
+                    <costo>21</costo>
+                </atraccion>
+                <atraccion>
+                    <nombre>Ikaro</nombre>
+                    <tiempo>6</tiempo>
+                    <costo>16</costo>
+                </atraccion>
+                <atraccion>
+                    <nombre>Toro Mecanico</nombre>
+                    <tiempo>7</tiempo>
+                    <costo>15</costo>
+                </atraccion>
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+                    
+                </restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+                <nombre>BañoDiez</nombre>
+                <tiempo>3</tiempo>
+                <costo>7</costo>
+            </servicioPublico>
+
+	</serviciosPublicos>
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+    </sitio>
+    <sitio>
+        <!-- 14)-->
+	<atracciones >
+		<atraccion>
+			<nombre>Montaña RusaV</nombre>
+			<tiempo>19</tiempo>
+			<costo>58</costo>
+		</atraccion>
+
+	</atracciones>
+
+	<restaurantes>
+		<restaurante>
+			
+		</restaurante>
+	</restaurantes>
+
+	<serviciosPublicos>
+            <servicioPublico>
+            
+            </servicioPublico>
+
+	</serviciosPublicos>
+        
+        <centExps>
+            <centExp>
+                
+            </centExp>
+        </centExps>
+    </sitio>
+</consorcio>
+    
+  
+    
+   
