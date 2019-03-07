@@ -34,7 +34,7 @@ public class FileXML
    public void makeFileXML() throws SAXException, IOException
    {
        try {
-           xmlFile= new File("/home/josec/Documentos/Netbeans Projects/info.xml");
+           xmlFile= new File("/run/media/josec/DE8C-86ED/Documentos/Netbeans Projects/Consortium/info.xml");
            factory=DocumentBuilderFactory.newInstance();
            builder=factory.newDocumentBuilder();
            doc=builder.parse(xmlFile);
@@ -287,3 +287,6 @@ public class FileXML
     return nodes;
    }
 }
+
+
+
